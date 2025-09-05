@@ -11,6 +11,6 @@
 Cloner le projet puis installer les dépendances :
 
 ```bash
-git clone https://github.com/ton-compte/mon-vieux-grimoire.git
-cd mon-vieux-grimoire/backend
+git clone https://github.com/Loukys/Projet6_Dev-Web-livres.git
+cd Dev-Web-livres/backend
 npm install

@@ -1,2 +1,5 @@
 node_modules
-.env
+
+# ⚠️ Normalement, on ignore les fichiers .env pour ne pas exposer de secrets.
+# Dans ce projet, le fichier .env est volontairement versionné pour l'évaluation.
+# Vérifiez bien de NE PAS y mettre de vraies clés sensibles en prod !
